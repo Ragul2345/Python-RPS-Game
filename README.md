@@ -1,6 +1,6 @@
 Rock Paper Scissors – Python Game :  This is a simple and beginner-friendly Rock Paper Scissors game created using Python.
 
-The program helps you understand how to Accept input from the user, Use if-elif-else conditional statements, Apply logic to compare user and computer choices, Generate random choices using Python’s random module
+The program helps you understand how to Accept input from the user, Use if-elif-else conditional statements, Apply logic to compare user and computer choices, Generate random choices using Python’s random module.
 
 How It Works :
               User Input
