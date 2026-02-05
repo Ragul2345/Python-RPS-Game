@@ -14,7 +14,7 @@ A simple beginner-friendly Rock Paper Scissors game built using Python. The user
 * Program compares both choices
 * Displays the result (Win / Lose / Tie)
 
-▶️ Run the Program ----> (python RPS.py)
+▶️ Run the Program ----> (python filename.py)
 
 
 🖥️ Sample Output
