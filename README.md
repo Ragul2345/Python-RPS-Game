@@ -18,6 +18,6 @@ A simple beginner-friendly Rock Paper Scissors game built using Python. The user
 
 ## 🖥️ Sample Output
 
-Choose rock, paper, or scissors: rock
-Computer chose: scissors
-You win!
+* Choose rock, paper, or scissors: rock
+* Computer chose: scissors
+* You win!
